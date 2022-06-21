@@ -1,0 +1,22 @@
+.title{
+    border: 3px solid dodgerblue;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+.mycard{
+    background-color: white;
+}
+.r{
+    border-top: 2px solid rgba(199, 198, 198, 0.92);
+    margin-top: 10px;
+    padding-top:5px;
+    width: 100%;
+  
+}
+.scroll{
+    height: 400px;
+  overflow-y: scroll;
+  scrollbar-color: black grey;
+  scrollbar-width: thin;
+}
